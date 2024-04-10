@@ -11,3 +11,4 @@ My Personal List Of Useful Windows Programs
 - [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US)
 - [LibreOffice](https://www.libreoffice.org/)
 - [Virtual Desktop](https://www.vrdesktop.net/)
+- [Rainmeter](https://www.rainmeter.net/)
