@@ -1,7 +1,6 @@
 # Windows-Utils
 My Personal List Of Useful Windows Programs
 
-- [Aquasnap Window manager](https://www.nurgo-software.com/products/aquasnap)
 - [Discord](https://discord.com)
 - [uBlock Origin](https://ublockorigin.com/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
