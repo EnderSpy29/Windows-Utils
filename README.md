@@ -15,3 +15,4 @@ My Personal List Of Useful Windows Programs
 - [RX 7600 GPU Drivers](https://www.amd.com/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7600-series/amd-radeon-rx-7600)
 - [OBS](https://obsproject.com/)
 - [Notepadd++](https://notepad-plus-plus.org/downloads/)
+- [VLC Media Player](https://www.videolan.org/)
