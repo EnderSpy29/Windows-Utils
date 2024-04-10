@@ -14,4 +14,4 @@ My Personal List Of Useful Windows Programs
 - [Rainmeter](https://www.rainmeter.net/)
 - [RX 7600 GPU Drivers](https://www.amd.com/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7600-series/amd-radeon-rx-7600)
 - [OBS](https://obsproject.com/)
-[Notepadd++](https://notepad-plus-plus.org/downloads/)
+- [Notepadd++](https://notepad-plus-plus.org/downloads/)
