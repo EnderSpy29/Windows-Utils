@@ -9,3 +9,4 @@ My Personal List Of Useful Windows Programs
 - [Steam](https://store.steampowered.com/)
 - [Davinci Resolve](https://www.blackmagicdesign.com/event/davinciresolvedownload)
 - [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US)
+- [LibreOffice](https://www.libreoffice.org/)
