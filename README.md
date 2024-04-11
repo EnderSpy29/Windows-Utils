@@ -1,5 +1,5 @@
-# Windows-Utils
-My Personal List Of Useful Windows Programs
+# Amazing Windows Utilites
+List of programs that i use on a regular basis. This list is a great way to kick start your Windows install with all the things a content creator and gamer might need
 
 - [Davinci Resolve](https://www.blackmagicdesign.com/event/davinciresolvedownload)
 - [Discord](https://discord.com)
