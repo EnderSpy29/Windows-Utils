@@ -1,4 +1,5 @@
 # Amazing Windows Utilites
+<img height="84" width="338.25" src="https://img.shields.io/badge/Windows-%23ffffff?style=for-the-badge&logo=windows&logoColor=%230078D4">
 List of programs that i use on a regular basis. This list is a great way to kick start your Windows install with all the things a content creator and gamer might need
 
 - [Davinci Resolve](https://www.blackmagicdesign.com/event/davinciresolvedownload)
