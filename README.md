@@ -14,6 +14,7 @@ List of programs that i use on a regular basis. This list is a great way to kick
 - [OBS](https://obsproject.com/)
 - [RX 7600 GPU Drivers](https://www.amd.com/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7600-series/amd-radeon-rx-7600)
 - [Rainmeter](https://www.rainmeter.net/)
+- [ShareX](https://getsharex.com/)
 - [Steam](https://store.steampowered.com/about/)
 - [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US)
 - [VLC Media Player](https://www.videolan.org/)
