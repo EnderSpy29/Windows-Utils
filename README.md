@@ -24,11 +24,42 @@ List of programs that i use on a regular basis. This list is a great way to kick
 ### Basics
   - [Chrome](https://www.google.com/chrome/) - Boring but simple. Stock Google Chrome, ya can't go wrong with this one
   - [Firefox](https://www.mozilla.org/en-US/firefox/) - Use Chrome if you like but Firefox is where its at
+  - [LibreOffice](https://www.libreoffice.org/) - My preffered free and open source office suite
   - [VLC Media Player](https://www.videolan.org/) - The best video player around (and it does audio to!)
+  - [uBlock Origin](https://ublockorigin.com/) - The only adblock you will ever need
 
+### Creator
 
+  - [Davinci Resolve](https://www.blackmagicdesign.com/event/davinciresolvedownload) - Amazing free editing software, with even more features behind a payed version if you want to level up your editing
+  - [OBS](https://obsproject.com/) - AMAZING recording, streaming and clipping software. Free and open source you can't go wrong with OBS
+  - [ShareX](https://getsharex.com/) - With an extensive list of features and availability on Steam. ShareX can record, screenshot, convert video and pictures and much more.
 
+### Programming
 
+  - [Github Desktop](https://desktop.github.com/) - Handy github desktop app
+  - [Notepad++](https://notepad-plus-plus.org/downloads/) - Notepad but BETTER
+  - [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US) - Better Windows Terminal. Don't use command prompt, use this
+  - [Visual Studio Code](https://code.visualstudio.com/) - If your using Visual Studio.. stop it get some help
+
+### Security
+
+  - [Bitwarden](https://bitwarden.com/)
+  - [Malwarebytes](https://www.malwarebytes.com/)
+
+### Drivers
+<i> And Tools </i>
+
+  - [Furmark](https://geeks3d.com/furmark/) - Great GPU benchmark tool
+  - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Possibly the best GPU overclocking tool
+  - [RX 7600 GPU Drivers](https://www.amd.com/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7600-series/amd-radeon-rx-7600)
+
+### Customization
+
+  - [Rainmeter](https://www.rainmeter.net/)
+  - [Wallpaper Engine](https://www.wallpaperengine.io/en)
+  
+    
+  
   - [Bitwarden](https://bitwarden.com/)
   - [Chrome](https://www.google.com/chrome/)
   - [Davinci Resolve](https://www.blackmagicdesign.com/event/davinciresolvedownload)
@@ -44,6 +75,7 @@ List of programs that i use on a regular basis. This list is a great way to kick
   - [OBS](https://obsproject.com/)
   - [RX 7600 GPU Drivers](https://www.amd.com/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7600-series/amd-radeon-rx-7600)
   - [Rainmeter](https://www.rainmeter.net/)
+  - [ShareX](https://getsharex.com/)
   - [Steam](https://store.steampowered.com/about/)
   - [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US)
   - [VLC Media Player](https://www.videolan.org/)
