@@ -43,17 +43,17 @@ List of programs that i use on a regular basis. This list is a great way to kick
 
 ### Security
 
-  - [Bitwarden](https://bitwarden.com/)
-  - [Malwarebytes](https://www.malwarebytes.com/)
+  - [Bitwarden](https://bitwarden.com/) - Amazing open source password manager
+  - [Malwarebytes](https://www.malwarebytes.com/) - Download, Scan, See its all good, Uninstall
 
 ### Drivers
 <i> And Tools </i>
 
   - [Furmark](https://geeks3d.com/furmark/) - Great GPU benchmark tool
   - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Possibly the best GPU overclocking tool
-  - [RX 7600 GPU Drivers](https://www.amd.com/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7600-series/amd-radeon-rx-7600)
+  - [RX 7600 GPU Drivers](https://www.amd.com/en/support/graphics/amd-radeon-rx-7000-series/amd-radeon-rx-7600-series/amd-radeon-rx-7600) - AMD GPU drivers
 
 ### Customization
 
-  - [Rainmeter](https://www.rainmeter.net/)
-  - [Wallpaper Engine](https://www.wallpaperengine.io/en)
+  - [Rainmeter](https://www.rainmeter.net/) - Super Ultra Mega Desktop Customization, All the fancy customizable custom widgets and even lockscreen customization
+  - [Wallpaper Engine](https://www.wallpaperengine.io/en) Omega awesome wallpaper hub.
