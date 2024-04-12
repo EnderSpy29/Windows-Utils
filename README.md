@@ -57,5 +57,3 @@ List of programs that i use on a regular basis. This list is a great way to kick
 
   - [Rainmeter](https://www.rainmeter.net/)
   - [Wallpaper Engine](https://www.wallpaperengine.io/en)
-  - [Visual Studio Code](https://code.visualstudio.com/)
-  - [uBlock Origin](https://ublockorigin.com/)
