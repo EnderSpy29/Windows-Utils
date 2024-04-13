@@ -31,6 +31,7 @@ List of programs that i use on a regular basis. This list is a great way to kick
 ### Creator
 
   - [Davinci Resolve](https://www.blackmagicdesign.com/event/davinciresolvedownload) - Amazing free editing software, with even more features behind a payed version if you want to level up your editing
+  - [GIMP](https://www.gimp.org/) - Imagine photoshop, but free, opensource and without the AI features
   - [OBS](https://obsproject.com/) - AMAZING recording, streaming and clipping software. Free and open source you can't go wrong with OBS
   - [ShareX](https://getsharex.com/) - With an extensive list of features and availability on Steam. ShareX can record, screenshot, convert video and pictures and much more.
 
