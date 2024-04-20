@@ -27,6 +27,7 @@ List of programs that i use on a regular basis. This list is a great way to kick
   - [LibreOffice](https://www.libreoffice.org/) - My preffered free and open source office suite
   - [VLC Media Player](https://www.videolan.org/) - The best video player around (and it does audio to!)
   - [uBlock Origin](https://ublockorigin.com/) - The only adblock you will ever need
+  - [Checker Plus for Gmail](https://jasonsavard.com/en-GB/Checker-Plus-for-Gmail) - i will never check my email to see 100+ unreads ever again
 
 ### Creator
 
