@@ -24,6 +24,7 @@ List of programs that i use on a regular basis. This list is a great way to kick
 ### Basics
   - [Chrome](https://www.google.com/chrome/) - Boring but simple. Stock Google Chrome, ya can't go wrong with this one
   - [Firefox](https://www.mozilla.org/en-US/firefox/) - Use Chrome if you like but Firefox is where its at
+  - [Floorp](https://floorp.app/en/download/) - Firefox but with way more customizability
   - [LibreOffice](https://www.libreoffice.org/) - My preffered free and open source office suite
   - [VLC Media Player](https://www.videolan.org/) - The best video player around (and it does audio to!)
   - [uBlock Origin](https://ublockorigin.com/) - The only adblock you will ever need
@@ -59,3 +60,4 @@ List of programs that i use on a regular basis. This list is a great way to kick
 
   - [Rainmeter](https://www.rainmeter.net/) - Super Ultra Mega Desktop Customization, All the fancy customizable custom widgets and even lockscreen customization
   - [Wallpaper Engine](https://www.wallpaperengine.io/en) Omega awesome wallpaper hub.
+  - [Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - My preffered Firefox/Floorp css Theme
